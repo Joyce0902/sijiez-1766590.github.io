@@ -1,0 +1,23 @@
+#picture{
+    text-align: center;
+}
+
+#content1{
+    border: dotted 8px black;
+}
+
+#content2{
+    border-radius:25px;
+    border:8px solid #73AD21;
+    padding: 20px;
+    width:750px;
+    height:100px;
+}
+
+#p1{
+    text-align: center;
+}
+
+p{
+    font-family: "Time New Roman", Times, serif;
+}
